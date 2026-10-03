@@ -2,37 +2,37 @@ const letters = {
     "miss-you": {
         title: "Open When <br> You Miss Me",
         message:
-            "I wish I could be there with you right now. Until then, just remember that I'm always thinking of you. I love you."
+            "Hi ali alam ko miss mo na ako kase umuwi ka na ulet, pero lagi mo tatandaan na miss na miss kita at love na love kita soon araw araw mona akong kasama pero sa ngayon tiis muna tayo huh i love you."
     },
 
     "bad-day": {
         title: "Open When<br> You're Having A Bad Day",
         message:
-            "It's okay to have bad days. Take a breath, take a break, and remember that tomorrow is another day. You've got this."
+            "if feeling mo po ali na wala kang kakampe just so you know po na i always be here po ako ang kakampe mo sa lahat, if need mo ng pahinga sakin ka lang punta or guluhin mo ko wala po problema sakin kase, ikaw din ang pahinga ko e i love youu ali ko."
     },
 
     "need-a-hug": {
         title: "Open When <br> You Need A Hug",
         message:
-            "Consider this your virtual hug. Squeeze your pillow really tight and pretend it's me. I can't wait to hug you for real."
+            "if need mo naman ng hug ali ko punta ka lang sa bahay hug kita ng mahigpit or sana pag naka ipon na ako jan ako naman ang pupunta sayo para ma hug kita i love you."
     },
 
     "cant-sleep": {
         title: "Open When <br> You Can't Sleep",
         message:
-            "Still awake? Close your eyes, get comfy, and imagine we're lying next to each other. Hopefully I'll see you in your dreams."
+            "di na naman po maka tulog ang ali ko? if na open mo man po to ali lagi mo lang isipin na nanjan me sa tabi mo malayo man ako sa tabi mo pero lagi mo tandaan na mahal na mahal kita sleep na po ikaw ali i love you."
     },
 
     "love-you": {
         title: "Open When <br> You Need To Know I Love You",
         message:
-            "I love you more than I could ever fit into a little letter, but I hope this reminds you just how much you mean to me."
+            "You know naman po kung gaano kita ka mahal ali, mas mahal pa kita kay sa sarili ko, ang cringe man pa kinggan pero your the only person i want to spend the rest of my life with ayoko na po sa iba ali ikaw lang po sapat na, hiling ko lang is sana dika po mapagod sakin I love so much my ali."
     },
 
     "thinking-of-you": {
         title: "Open When <br> You're Thinking Of Me",
         message:
-            "If you're thinking about me right now, just know that there's a very good chance I'm thinking about you too."
+            "hi ali gentle reminder lang po na mahal na mahal na mahal po kita ali ko hehe i love youu super duper so much."
     }
 };
 
